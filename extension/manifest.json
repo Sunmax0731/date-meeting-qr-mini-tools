@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "日付・会議・QRミニツール",
+  "version": "0.1.0",
+  "description": "予定抽出、会議メモ、現在URLのQR、小型電卓をポップアップにまとめる。 入力、確認、履歴保存、次アクションを同じ作業単位で扱えるようにする。",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "options_page": "options.html"
+}
