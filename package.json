@@ -1,0 +1,18 @@
+{
+  "name": "date-meeting-qr-mini-tools",
+  "version": "0.1.0-alpha.1",
+  "private": false,
+  "type": "module",
+  "description": "日付・会議・QRミニツール closed alpha",
+  "scripts": {
+    "test": "node tests/product.test.mjs",
+    "validate": "node src/cli/index.js --input samples/representative-suite.json --output dist/date-meeting-qr-mini-tools-representative-report.json",
+    "build": "node scripts/build-docs-zip.mjs"
+  },
+  "keywords": [
+    "ChromeExtension",
+    "closed-alpha",
+    "qcds"
+  ],
+  "license": "MIT"
+}
