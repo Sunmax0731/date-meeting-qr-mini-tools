@@ -1,0 +1,9 @@
+{
+  "product": "date-meeting-qr-mini-tools",
+  "platformType": "chrome-extension",
+  "pass": true,
+  "method": "runtime-gate",
+  "manualTest": "not-run-by-codex",
+  "manifest": "extension/manifest.json",
+  "manifestVersion": 3
+}
