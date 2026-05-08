@@ -1,0 +1,11 @@
+{
+  "product": "date-meeting-qr-mini-tools",
+  "title": "日付・会議・QRミニツール",
+  "domain": "ChromeExtension",
+  "ideaNo": 9,
+  "platformType": "chrome-extension",
+  "expectedPublicTarget": "Chrome Web Store",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
